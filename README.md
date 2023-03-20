@@ -1,16 +1,26 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**avv1369it/avv1369it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за ✨
 
-Here are some ideas to get you started:
+* 🎓 Образование:
+  --------------------------
+* ГАНиГ им М.И. Баумана: 1992-1997 - Разработка и эксплуатация нефтяных и газовых месторождений (горный инженер);
+* Skill Factory: 2022-Н/В - Студент курса Data Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Проекты 📚
+
+* 
+
+### 💡 Основные компетенции 💡
+
+- Инструменты: Python
+- Skills: Data Cleaning, Data Visualisation
+
+### ⚡️ В настоящее время ⚡️
+----------------------------
+* Skill Factory: 2022-Н/В - Студент курса Data Science. 
+
+### 🙌🏻 Свяжись со мной
+
+- [Telegram]()
+- [Kaggle]()
